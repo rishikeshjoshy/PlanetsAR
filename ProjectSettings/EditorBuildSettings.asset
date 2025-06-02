@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HomeScreen.unity
+    guid: 714d43a9b501ae34590a8aa3b036c45f
+  - enabled: 1
+    path: Assets/Scenes/Earth.unity
+    guid: 6bdce89659816455b9f906fc62d19910
+  - enabled: 1
+    path: Assets/Scenes/Jupiter.unity
+    guid: 78e4c87c17658b542afd9a52d2a0cdf1
+  - enabled: 1
+    path: Assets/Scenes/Mars.unity
+    guid: ac5604fe2da9f4b499a878986bdd23b0
+  - enabled: 1
+    path: Assets/Scenes/Neptune.unity
+    guid: 2b14e8647cf35aa418d10028030aaf78
+  - enabled: 1
+    path: Assets/Scenes/Saturn.unity
+    guid: 00dfebea9f770cc40a73921c4f70528c
+  - enabled: 1
+    path: Assets/Scenes/Uranus.unity
+    guid: 556d72529f75efb41a85da2d1a8fcdae
+  - enabled: 1
+    path: Assets/Scenes/Venus.unity
+    guid: 36388f101c240f04babd8606f05d2ae7
+  - enabled: 1
+    path: Assets/Scenes/Mercury.unity
+    guid: 07fab18a89e239544a1925c4e0c394c3
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 89a6d18d3df8d3e4fa917b0f9a963bc0,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: c2f7b8d7c0bff4d10874cbcf3f24af78,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: b27ec7d82a91a48e69fd689ad6808e5e,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6bb381a8ba31f114d9724357633b4625,
+      type: 2}
